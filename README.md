@@ -1,3 +1,3 @@
 # ShopeeClone
 
-Shopee clone by LongNH
+Shopee clone by HoangLongDev
